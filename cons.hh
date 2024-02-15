@@ -2,6 +2,7 @@
 #define dirr3_cons_hh
 
 #include <algorithm> // std::swap
+#include <cstdint>
 #include "printf.hh"
 #include "config.h"
 
